@@ -1,0 +1,53 @@
+a{
+	text-decoration: none;
+	font-size: 25px;
+}
+
+li{
+	display: inline;
+	list-style-type: none;
+	border-right: 1px solid silver;
+	padding: 5px;
+}
+
+nav{
+	margin-top: 80px;
+}
+.headlinks{
+	text-align: center;
+}
+
+.myself{
+	font-size: 32px;
+	margin-left: 20px;
+	margin-left: 20px;	 
+}
+
+table,th,td{
+	text-align: center;
+	width: 960px;
+	height: 135px;
+	border: 1px solid gold;
+}
+table{
+	margin: 0 auto;
+}
+
+.tr-color{
+	background-color: gold; 
+}
+
+.trs-color{
+	background-color: #dbdb55;
+}
+
+
+.imgSize{
+	width: 25px;
+	height: 25px;
+}
+
+.formPart{
+	margin-right: 20px;
+	margin-left: 20px;
+}
